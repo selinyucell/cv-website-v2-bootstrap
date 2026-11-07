@@ -1,6 +1,6 @@
-# cv-website-v2-bootstrap
 
-# Selin Yücel – Personal Portfolio
+
+# Personal Portfolio Website
 
 A personal portfolio website for a Frontend Developer. It includes an About section, skills, courses, and contact information.
 
